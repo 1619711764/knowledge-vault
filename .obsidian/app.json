@@ -1,0 +1,20 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-Inbox",
+  "attachmentFolderPath": "04-Attachments",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "showInlineTitle": true,
+  "promptDelete": true
+}
